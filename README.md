@@ -8,3 +8,5 @@ Features:
 4. It GUI consist of two buttons:
          a. Generate Button - to generate password.
          b. Copy Button - to copy the password generated.
+5. Designed using HTML and CSS.
+6. Functionality added using JavaScript.
